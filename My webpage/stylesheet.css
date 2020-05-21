@@ -4,6 +4,7 @@ body {
 
 #text_decor{
     color: grey;
+    font-family: 'Peanuts';
     font-weight: normal;
     font-size: 100px;
     text-align: center;
@@ -12,7 +13,9 @@ body {
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: 'Peanuts';
-    src: url('http://www.fontsaddict.com/fontface/peanuts.TTF');
+}
 
+@font-face {
+  font-family: 'Peanuts';
+  src: url('http://www.fontsaddict.com/fontface/peanuts.TTF');
 }
