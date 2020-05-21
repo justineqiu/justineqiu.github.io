@@ -12,6 +12,7 @@ body {
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: 'Abel', sans-serif;
+    font-family: 'Peanuts';
+    src: url('http://www.fontsaddict.com/fontface/peanuts.TTF');
 
 }
