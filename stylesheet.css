@@ -15,18 +15,32 @@ body {
     left: 63%;
     transform: translate(-50%, -50%);
 }
-
-.Justine {
-  display: block;
-  text-indent: -9999px;
-  width: 1000px;
-  height: 820px;
-  background: url(Justine.svg);
-  background-size: 300px 492px;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 25% 50%;
+.Justine{
+  position: absolute;
+  top: 25%;
+  left: 20%;
 }
+
+
+
+.fa-envelope {
+    color: black;
+}
+.fa-medium {
+    color: black;
+}
+.fa-github {
+    color: black;
+}
+.fa-linkedin {
+    color: black;
+}
+.fa-spotify {
+    color: black;
+}
+
+
+
 
 
 @font-face {
