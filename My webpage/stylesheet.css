@@ -12,17 +12,20 @@ body {
     vertical-align: middle;
     position: absolute;
     top: 40%;
-    left: 60%;
+    left: 63%;
     transform: translate(-50%, -50%);
 }
 
 .Justine {
   display: block;
   text-indent: -9999px;
-  width: 10000px;
-  height: 8200px;
+  width: 1000px;
+  height: 820px;
   background: url(Justine.svg);
-  background-size: 100px 82px;
+  background-size: 300px 492px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 25% 50%;
 }
 
 
