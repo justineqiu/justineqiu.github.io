@@ -2,6 +2,7 @@ body {
     background-color: #FBFBF8;
 }
 
+
 #text_decor{
     color: grey;
     font-family: 'Peanuts';
@@ -14,6 +15,16 @@ body {
     left: 60%;
     transform: translate(-50%, -50%);
 }
+
+.Justine {
+  display: block;
+  text-indent: -9999px;
+  width: 10000px;
+  height: 8200px;
+  background: url(Justine.svg);
+  background-size: 100px 82px;
+}
+
 
 @font-face {
   font-family: 'Peanuts';
