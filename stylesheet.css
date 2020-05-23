@@ -22,23 +22,23 @@ body {
 }
 
 .fa-envelope {
-
+    position: absolute;
     color: black;
 }
 .fa-medium {
-  
+  position: absolute;
     color: black;
 }
 .fa-github {
-  
+  position: absolute;
     color: black;
 }
 .fa-linkedin {
- 
+  position: absolute;
     color: black;
 }
 .fa-spotify {
-  
+  position: absolute;
     color: black;
 }
 
