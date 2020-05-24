@@ -22,19 +22,35 @@ body {
 }
 
 .fa-envelope {
-    color: black;
+    color: black !important;
+}
+
+.fa-envelope:hover{
+   color:rgb(215, 80, 77) !important;
 }
 .fa-medium {
     color: black;
 }
+.fa-medium:hover{
+   color:rgb(0, 171, 108) !important;
+}
 .fa-github {
     color: black;
+}
+.fa-github:hover{
+   color:rgb(110, 84, 148) !important;
 }
 .fa-linkedin {
     color: black;
 }
+.fa-linkedin:hover{
+   color:rgb(40,103,178) !important;
+}
 .fa-spotify {
     color: black;
+}
+.fa-spotify:hover{
+   color:rgb(30, 215, 96) !important;
 }
 
 
